@@ -3,7 +3,7 @@ var boton = document.getElementById("botoncito");
 boton.addEventListener("click",dibujoPorClick);
 
 
-var d = document.getElementById("dibujito");
+var d = document.getElementById("dibujito"); //prueba git
 var lienzo = d.getContext("2d");
 //var lineas = 30;
 //var l = 0;
